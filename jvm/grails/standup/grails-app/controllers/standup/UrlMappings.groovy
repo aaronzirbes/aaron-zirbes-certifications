@@ -1,3 +1,5 @@
+package standup
+
 class UrlMappings {
 
     static mappings = {
